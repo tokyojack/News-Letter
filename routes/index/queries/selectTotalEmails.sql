@@ -1,0 +1,1 @@
+SELECT COUNT(*) AS amount FROM emails;

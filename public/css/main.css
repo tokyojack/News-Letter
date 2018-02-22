@@ -1,0 +1,25 @@
+.toastError {
+    background-color: #e53935 !important;
+}
+
+.toastSuccess {
+    background-color: #43a047 !important;
+}
+
+#sendEmail{
+    margin-left: 37.5%;
+    width: 30% !important;
+}
+
+.center {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
+body {
+    background-color: steelblue;
+}

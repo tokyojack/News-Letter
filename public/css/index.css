@@ -1,0 +1,41 @@
+body {
+    background-color: steelblue;
+}
+
+.headline {
+    color: white;
+    font-weight: 700;
+    font-size: 1.5em;
+    text-align: center;
+    font-family: 'Acme', sans-serif;
+    text-shadow: 0px 4px 3px rgba(0, 0, 0, 0.4),
+    0px 8px 13px rgba(0, 0, 0, 0.1),
+    0px 18px 23px rgba(0, 0, 0, 0.1);
+}
+
+#email {
+    width: 50%;
+}
+
+form {
+    margin-left: 37.5%;
+    width: 30% !important;
+    background-color: white;
+}
+
+.center {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
+.toastError {
+    background-color: #e53935 !important;
+}
+
+.toastSuccess {
+    background-color: #43a047 !important;
+}
