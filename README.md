@@ -1,5 +1,5 @@
 <h2  align="center">News-Letter</h2>
-<p  align="center">A website where people to sign-up for a new's letter that get's sent to their email</p>
+<p  align="center">A website where people sign up for a newsletter that gets sent to their email</p>
 
 <br/>
 
