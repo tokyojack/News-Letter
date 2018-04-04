@@ -22,4 +22,4 @@ Click "Send Email", fill out the form and it'll send it to people whom have sign
 
 ##
 
-Now you've just install the program! People may be terrified with the power you've gained! ```┬┴┬┴┤(･_├┬┴┬┴```!
+Now you've just install the program! People may be terrified with the power you've gained! ```┬┴┬┴┤(･_├┬┴┬┴```
