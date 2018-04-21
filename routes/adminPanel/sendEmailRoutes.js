@@ -25,7 +25,7 @@ module.exports = function (pool) {
 
                 if (flashUtils.isDatabaseError(req, res, redirectLocation, err))
                     return;
-
+                
                 emails.forEach(function (email) {
                     emailUtils.sendEmail(req.body.title, req.body.content, email.email);
                 });
