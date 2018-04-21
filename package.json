@@ -1,7 +1,7 @@
 {
-  "name": "j-forum",
+  "name": "news-letter",
   "version": "1.0.0",
-  "description": "Jack's forum template",
+  "description": "A website where people sign up for a newsletter that gets sent to their email",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
